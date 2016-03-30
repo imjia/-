@@ -1,4 +1,4 @@
-###安装nodejs
+
 #####1.首先安装homebrew（http://brew.sh/  ）
 ```
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
